@@ -1,4 +1,5 @@
 
+
 # ProjectTitle: MULTICLASS-DISEASE-CLASSIFICATION-OF-MEDICAL-IMAGE-DATA-USING-CONVOLUTIONAL-NEURAL-NETWORK
 Dataset links:
 
@@ -102,8 +103,8 @@ Images Pixels values should be preproceesed in way called Normalizing the pixels
 
    * Activation Functions: It decides which information of the model should fire in the forward direction and which ones should not at the end of the network.It adds non-linearity to the network. There are several commonly used activation functions such as the ReLU, Softmax, tanH and the Sigmoid functions. Each of these functions have a specific usage.
 
-  * CNN models were built using Tensorflow and Keras Sequential API's help.
-      
+   * CNN models were built using Tensorflow and Keras Sequential API's help.
+
    # **BINARY CLASS IMAGE CLASSIFICATION-PNEUMONIA X-RAY CNN MODELLING**
 
    ![screenshot](https://github.com/itsmesethus/MULTICLASS-DISEASE-CLASSIFICATION-OF-MEDICAL-IMAGE-DATA-USING-CONVOLUTIONAL-NEURAL-NETWORK-/blob/main/BINARY%20CLASS%20IMAGE%20CLASSIFICATION-PNEUMONIA%20X-RAY%20CNN%20MODELLING/img%20files/binaryclass%20model.png)
@@ -161,22 +162,25 @@ reduce their dimensionality, CNNs are able to learn complex representations that
 accurately classify images. And the Accuracy of the validation and test datasets are,
 
 • Binary Image Classification (PneumoniaX-Ray Image Dataset)
- Test Accuracy = 94.88%
- Validation Accuracy = 94.31%
-• Multiclass Image Classification
--Three Class Classification (Potato Plant Leaf Disease Dataset )
- Test Accuracy = 95.67%
- Validation Accuracy = 95.93%
--Four Class Classification ( Corn Plant Leaf Disease Dataset )
- Test Accuracy = 95.18%
- Validation Accuracy = 94.22%
 
--Eight Class Classification (Gastrointestinal Disease Dataset )
- Test Accuracy = 90.87 %
- Validation Accuracy = 89.5 %
+      - Test Accuracy = 94.88%
+      - Validation Accuracy = 94.31%
+• Multiclass Image Classification
+  -Three Class Classification (Potato Plant Leaf Disease Dataset )
+
+      * Test Accuracy = 95.67%
+      * Validation Accuracy = 95.93%
+
+  -Four Class Classification ( Corn Plant Leaf Disease Dataset )
+
+      * Test Accuracy = 95.18%
+      * Validation Accuracy = 94.22%
+
+  -Eight Class Classification (Gastrointestinal Disease Dataset )
+
+      * Test Accuracy = 90.87 %
+      * Validation Accuracy = 89.5 %
 
 CNNs have been successfully applied and it can be used for a wide range of
 applications, including object recognition, facial recognition, and medical image analysis.
 They have also achieved state-of-the-art results in several benchmark datasets.
-
-
