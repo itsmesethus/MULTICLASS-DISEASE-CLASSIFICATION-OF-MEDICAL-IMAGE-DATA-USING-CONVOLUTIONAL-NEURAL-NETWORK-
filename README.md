@@ -166,6 +166,7 @@ accurately classify images. And the Accuracy of the validation and test datasets
       - Test Accuracy = 94.88%
       - Validation Accuracy = 94.31%
 • Multiclass Image Classification
+
   -Three Class Classification (Potato Plant Leaf Disease Dataset )
 
       * Test Accuracy = 95.67%
