@@ -102,6 +102,8 @@ Images Pixels values should be preproceesed in way called Normalizing the pixels
 
    * Activation Functions: It decides which information of the model should fire in the forward direction and which ones should not at the end of the network.It adds non-linearity to the network. There are several commonly used activation functions such as the ReLU, Softmax, tanH and the Sigmoid functions. Each of these functions have a specific usage.
 
+  * CNN models were built using Tensorflow and Keras Sequential API's help.
+      
    # **BINARY CLASS IMAGE CLASSIFICATION-PNEUMONIA X-RAY CNN MODELLING**
 
    ![screenshot](https://github.com/itsmesethus/MULTICLASS-DISEASE-CLASSIFICATION-OF-MEDICAL-IMAGE-DATA-USING-CONVOLUTIONAL-NEURAL-NETWORK-/blob/main/BINARY%20CLASS%20IMAGE%20CLASSIFICATION-PNEUMONIA%20X-RAY%20CNN%20MODELLING/img%20files/binaryclass%20model.png)
